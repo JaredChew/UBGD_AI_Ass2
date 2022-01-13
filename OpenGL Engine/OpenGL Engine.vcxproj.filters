@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Math">
+      <UniqueIdentifier>{77ca3453-493f-4df6-9817-f4f812772234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utilities">
+      <UniqueIdentifier>{1e2aa3ae-0b09-4f87-b16c-f62717666e20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\!!! TO IMPLEMENT">
+      <UniqueIdentifier>{be61036b-3286-4cd7-a600-c65a710208fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Data Types">
+      <UniqueIdentifier>{3e4b6b08-dc10-4d0e-ab37-defb603d38f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sessions">
+      <UniqueIdentifier>{4fc01973-2f3e-492e-8d1a-5d4f003bda1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Duplicates">
+      <UniqueIdentifier>{feb131f7-b3e8-4fb1-af6a-2f7cc7ff9132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{15e786ab-057d-4706-8e01-4fe3a20d4627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\Header Files">
+      <UniqueIdentifier>{c6cf0db1-ead5-4a01-9a5e-20d62b90d44e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\Source Files">
+      <UniqueIdentifier>{4cb61f21-6382-42d0-a80b-f4ed00c3e310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Math">
+      <UniqueIdentifier>{90e062a0-0b2b-401e-88c5-752cfbc5f271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{9f9b4c7c-1ac1-479f-b57b-16a01500b679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\!!! TO IMPLEMENT">
+      <UniqueIdentifier>{7a1cfe2f-484a-44e1-a773-fab40bbb20c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Specifications">
+      <UniqueIdentifier>{3a4fafec-7af2-438f-a6da-4493ab8e1731}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Duplicates">
+      <UniqueIdentifier>{09c800d6-09a2-424d-837b-e4910615548b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sessions">
+      <UniqueIdentifier>{eca2299f-4d9c-40fd-9dbe-24c9f43ddd4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Data Types">
+      <UniqueIdentifier>{0905c5aa-6408-4a70-9a6c-52f0b25a5346}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Data Structures">
+      <UniqueIdentifier>{9dc8bdef-9dbb-408f-89a9-6cb327d7c024}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Modules">
+      <UniqueIdentifier>{f12c548e-1942-4dc6-8bbe-662c76ec575b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Modules">
+      <UniqueIdentifier>{4a2c34d5-6859-40c5-a35b-6b6726ca89d6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\openGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\random.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Math\straightLineEquation.cpp">
+      <Filter>Source Files\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="src\font.cpp">
+      <Filter>Source Files\!!! TO IMPLEMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\physics.cpp">
+      <Filter>Source Files\!!! TO IMPLEMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bitData.cpp">
+      <Filter>Source Files\Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="src\window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\keyboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\crypto.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Session\gameOfLife.cpp">
+      <Filter>Source Files\Sessions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Session\pathFinding.cpp">
+      <Filter>Source Files\Sessions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\bitOperation.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\generalUtil.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\timer.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Modules\aStar.cpp">
+      <Filter>Source Files\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Modules\dijkstra.cpp">
+      <Filter>Source Files\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Modules\pathNode.cpp">
+      <Filter>Source Files\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Modules\pathFinder.cpp">
+      <Filter>Source Files\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Session\steeringBehaviour.cpp">
+      <Filter>Source Files\Sessions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\External\glad.c">
+      <Filter>External\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\External\Matrix.cpp">
+      <Filter>External\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\External\Vector.cpp">
+      <Filter>External\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openGL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\random.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Math\straightLineEquation.h">
+      <Filter>Header Files\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="src\font.h">
+      <Filter>Header Files\!!! TO IMPLEMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\physics.h">
+      <Filter>Header Files\!!! TO IMPLEMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="todo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Data Structure\binaryTree.hpp">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Data Structure\linkedList.hpp">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Data Structure\node2D.hpp">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Data Structure\doubleLinkedList.hpp">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Data Structure\hashMap.hpp">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Data Structure\circularQueue.hpp">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="src\bitData.h">
+      <Filter>Header Files\Data Types</Filter>
+    </ClInclude>
+    <ClInclude Include="src\window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\keyboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\crypto.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\objects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\bitOperation.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\generalUtil.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Session\gameOfLife.h">
+      <Filter>Header Files\Sessions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Session\pathFinding.h">
+      <Filter>Header Files\Sessions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\session.h">
+      <Filter>Header Files\Specifications</Filter>
+    </ClInclude>
+    <ClInclude Include="src\defaultSettings.h">
+      <Filter>Header Files\Specifications</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\timer.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Modules\aStar.h">
+      <Filter>Header Files\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Modules\dijkstra.h">
+      <Filter>Header Files\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Modules\pathNode.h">
+      <Filter>Header Files\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Modules\pathFinder.h">
+      <Filter>Header Files\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Session\steeringBehaviour.h">
+      <Filter>Header Files\Sessions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\External\bitmap.h">
+      <Filter>External\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\External\Matrix.h">
+      <Filter>External\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\External\Vector.h">
+      <Filter>External\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
